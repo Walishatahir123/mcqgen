@@ -1,0 +1,8 @@
+setup.py
+src/__init__.py
+src/mcqgenerator/__init__.py
+walisha.egg-info/PKG-INFO
+walisha.egg-info/SOURCES.txt
+walisha.egg-info/dependency_links.txt
+walisha.egg-info/requires.txt
+walisha.egg-info/top_level.txt
