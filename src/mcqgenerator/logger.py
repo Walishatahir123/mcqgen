@@ -21,5 +21,5 @@ logging.basicConfig(
 )
 
 # Example usage
-logger = logging.getLogger(__name__)
-logger.info("Logging system initialized successfully!")
+# logger = logging.getLogger(__name__)
+# logger.info("Logging system initialized successfully!")
