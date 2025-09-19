@@ -2,7 +2,7 @@
 from setuptools import find_packages,setup
 
 setup(
-    name="walisha",
+    name="mcqgenerator",
     version="0.0.1",
     author="Walisha",
     author_email="walishatahir00@gmail.com",
