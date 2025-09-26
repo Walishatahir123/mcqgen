@@ -1,0 +1,15 @@
+[2025-09-25 20:32:35,645] [290] [langchain_community.chat_models.openai] - WARNING - WARNING! open_api_key is not default parameter.
+                    open_api_key was transferred to model_kwargs.
+                    Please confirm that open_api_key is what you intended.
+[2025-09-25 20:32:57,524] [290] [langchain_community.chat_models.openai] - WARNING - WARNING! open_api_key is not default parameter.
+                    open_api_key was transferred to model_kwargs.
+                    Please confirm that open_api_key is what you intended.
+[2025-09-25 20:33:02,674] [290] [langchain_community.chat_models.openai] - WARNING - WARNING! open_api_key is not default parameter.
+                    open_api_key was transferred to model_kwargs.
+                    Please confirm that open_api_key is what you intended.
+[2025-09-25 20:36:24,107] [290] [langchain_community.chat_models.openai] - WARNING - WARNING! OPEN_API_KEY is not default parameter.
+                    OPEN_API_KEY was transferred to model_kwargs.
+                    Please confirm that OPEN_API_KEY is what you intended.
+[2025-09-25 20:38:36,251] [290] [langchain_community.chat_models.openai] - WARNING - WARNING! OPEN_API_KEY is not default parameter.
+                    OPEN_API_KEY was transferred to model_kwargs.
+                    Please confirm that OPEN_API_KEY is what you intended.
